@@ -1,5 +1,26 @@
 {
   "Neutron Bombs": "You may destroy all the Population Cubes from the hex without rolling any dice.",
-
-  "Orbital": "You may Build Orbitals."
+  "Starbase": "You may Build Starbases.",
+  "Plasma Cannon": "You may upgrade PLASMA CANNON Ship Parts.",
+  "Phase Shield": "You may upgrade PHASE SHIELD Ship Parts.",
+  "Advanced Mining": "You may place Population Cubes in the advanced Materials squares with your Colony Ships.",
+  "Tachyon Source": "You may upgrade TACHYON SOURCE Ship Parts.",
+  "Plasma Missile": "You may upgrade PLASMA MISSILE Ship Parts.",
+  "Gluon Computer": "You may upgrade GLUON COMPUTER Ship Parts.",
+  "Gauss Shield": "You may upgrade GAUSS SHIELD Ship Parts",
+  "Improved Hull": "You may upgrade IMPROVED HULL Ship Parts.",
+  "Fusion Source": "You may upgrade FUSION SOURCE Ship Parts.",
+  "Positron Computer": "You may upgrade POSITRON COMPUTER Ship Parts.",
+  "Advanced Economy": "You may place Population Cubes in the advanced Money squares with your Colony Ships.",
+  "Tachyon Drive": "You may upgrade TACHYON DRIVE Ship Parts.",
+  "Antimatter Cannon": "You may upgrade ANTIMATTER CANNON Ship Parts",
+  "Quantum Grid": "You recieve two additional Influence Discs, placed immediately on your Influence Track.",
+  "Nanorobots": "You may Build one additional Ship or Structure.",
+  "Fusion Drive": "You may upgrade FUSION DRIVE Ship Parts.",
+  "Advanced Robotics": "You receive one additional Influence Disc, placed immediately on your Influence Track.",
+  "Orbital": "You may Build Orbitals.",
+  "Advanced Labs": "You may place Population Cubes in the advanced Science squares with your Colony Ships.",
+  "Monolith": "You may Build Monoliths.",
+  "Artifact Key": "You must take 5 resources of one type for each Artifact on your hexes.",
+  "Wormhole Generator": "You may Explore, Influence and Move through a hex edge that has a Wormhole on just one side."
 }

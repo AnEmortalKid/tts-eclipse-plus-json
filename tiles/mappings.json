@@ -1,4 +1,6 @@
 {
-  "78f156":"Orbital",
-  "9e648e":"Advanced Mining"
+  "Orbital": [ "78f156"],
+  "Advanced Mining": ["9e648e"],
+  "Neutron Bombs": ["fc06b9"],
+  "Starbase": ["3ca49a"]
 }
