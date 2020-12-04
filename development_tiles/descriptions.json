@@ -1,0 +1,14 @@
+{
+  "Ancient Monument": "3VP at the end of the game.",
+  "Artifact Link": "1VP per Artifact at the end of the game.",
+  "Diplomatic Fleet": " You may place one Ambassador or Reputation Tile on top of this tile.",
+  "Mining Colony": ": Immediately take 12 Materials.",
+  "Research Station": " Immediately take 12 Science.",
+  "Trade Fleet": " Immediately take 12 Money.",
+  "Shellworld": ": Place the Shellworld tile on one of your controlled hexes. The Shellworld has a Science Population Square and is worth 5VP at the end of the game if controlled.",
+  "Warp Portal":  "Place the Warp Portal tile on one of your controlled hexes. The Warp Portal (see page 8) connects to all other Warp Portals and is worth 1VP at the end of the game if controlled.",
+  "Security Council": "At the end of the game, score 1VP, plus 1VP per Ambassador on your Reputation Track.",
+  "Quantum Labs": "The tile functions as an extra slot for a researched Technology. The tile researched is placed on top of this tile. Quantum Labs gives a 6 Science discount for the tile being researched. The minimum price for the Technology still applies. The Technology can be of any category (Military, Grid, Nano, Rare). If a Technology Tile is placed on the Development, it gives 1VP at the end of the game.",
+  "Genetic Labs": "Immediately draw Evolution tiles from the bag until you have drawn 4 tiles that cost 5 or less. Place one of the four tiles active side up next to your player board. It is immediately and permanently active. Return the rest to the bag. You can use this Development even if you don't have the Evolution ability",
+  "Ancient Labs": "Immediately draw one Discovery Tile"
+}
